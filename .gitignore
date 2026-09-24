@@ -19,3 +19,6 @@ npm-debug.log*
 .venv/
 .vscode/
 .DS_Store
+
+# local practice code from the course material
+practice/
