@@ -22,11 +22,11 @@ Grade depends on the total number of exercises submitted across parts 0–5, ast
 |------|------|-----------|
 | 0 | 6 | ☑ |
 | 1 | 14 | ☑ |
-| 2 | 15 | ☐ |
+| 2 | 20 | ☐ |
 | 3 | 0 | ☐ |
 | 4 | 0 | ☐ |
 | 5 | 0 | ☐ |
-| **Total** | **35** | |
+| **Total** | **40** | |
 
 ## Getting credits
 
